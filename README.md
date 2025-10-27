@@ -1,2 +1,1 @@
 # WYSIWYG-Editor
-# WYSIWYG-Editor
